@@ -3,6 +3,7 @@
 #include <string>
 #include <iomanip>
 #include <bitset>
+
 //adding namespace for main integer
 
 using namespace std;
@@ -310,7 +311,7 @@ if (choice==6)
     std::cout << std::endl;
 }
 }
-if (choice==5)
+if (choice==7)
 {
      cout<<endl<<"Enter name of file: ";
 
