@@ -3,6 +3,18 @@
 #include <string>
 #include <iomanip>
 #include <bitset>
+#include <studio.h>
+#include <stdlib.h>
+#include <functional>
+#include <type_traits>
+#include <math.h>
+#include <algorithm>
+#include <cstdint>
+#include <bit>
+#include <complex>
+#include <typeindex>
+#include <scoped_allocator>
+#include <stdexcept>
 
 //adding namespace for main integer
 
